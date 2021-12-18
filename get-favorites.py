@@ -2,7 +2,6 @@ import os
 import json
 from hashlib import sha1
 import re
-import pprint
 import argparse
 
 parser = argparse.ArgumentParser()
